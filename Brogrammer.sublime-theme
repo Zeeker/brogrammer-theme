@@ -781,7 +781,7 @@
 
     {
         "class": "quick_panel",
-        "row_padding": 15,
+        "row_padding": 5,
         "layer0.tint": [17,17,17],
         "layer0.opacity": 1,
         "dark_content": true
